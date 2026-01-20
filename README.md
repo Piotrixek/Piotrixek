@@ -12,12 +12,12 @@
 </h3>
 
 <p align="center">
-  I specialize in making cheats for <b>Unreal Engine</b> and <b>Unity</b> games and not only. My work is mostly reverse engineering, cracking software protections, and developing custom desktop apps/tools. Most my repos private but one day maybe public ;)
+  I specialize in making cheats for <b>Unreal Engine</b> and <b>Unity</b> games. My work is mostly reverse engineering, cracking software protections, and developing custom desktop apps/tools. Most my repos private but one day maybe public ;)
 </p>
 
 <div align="center">
 
-<h3>Tech Stack & Tools</h3>
+<h3>🛠 Tech Stack & Tools</h3>
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -44,6 +44,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piotrixek&theme=radical&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piotrixek&theme=radical&hide_border=true&count_private=true" alt="GitHub Streak" />
+</p>
